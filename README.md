@@ -1,0 +1,2 @@
+# practically_building_an_image_classifier
+Repository to accompany newsletter series on image classification
